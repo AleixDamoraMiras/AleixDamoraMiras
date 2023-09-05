@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 - 💻 Web Developer Degree
 - 📊 Passionate about Programming and Web Design
 - ⚡ In my free time enjoy engaging in sports, watching series, and expanding my knowledge.
-- 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Personal Projects 
 <table>
