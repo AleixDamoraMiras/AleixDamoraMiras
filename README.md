@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> About me
-- 💻 Web Developer Degree
+- 💻 Web Developer
 - 📊 Passionate about Programming and Web Design
 - ⚡ In my free time enjoy engaging in sports, watching series, and expanding my knowledge.
 
