@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <td width="50%" style="vertical-align: top;">
     <div align="center">
         <a target="_blank"><img src="https://res.cloudinary.com/neeko15a/image/upload/v1693935830/av-interactive.jpg" width="400" alt=""></a>
-        <p><a href="https://github.com/AleixDamoraMiras/_Avatars" target="_blank"><img src="https://img.shields.io/badge/CODE-fff?style=for-the-badge&logo=github&logoColor=black"></a></p>
+        <p><a href="[https://github.com/AleixDamoraMiras/_Avatars](https://github.com/AleixDamoraMiras/Avatars)" target="_blank"><img src="https://img.shields.io/badge/CODE-fff?style=for-the-badge&logo=github&logoColor=black"></a></p>
         <p></p>
     </div>                                                                                     
 </td> 
